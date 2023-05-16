@@ -1,5 +1,4 @@
 https://fairy-tales-kappa.vercel.app/
-<a href="https://fairy-tales-kappa.vercel.app/"> Fairy Tales </a>
 Link to redirect on The page of the given assignment
 The purpose of this assignment is to fetch the data from the api of tiny terrible tales, and extract 20 most occuring words in the content and make a bar chart using the information
 Then make a button to export the file, on clicking of export button you have to get an option to download that file of top 20 occuring words.
