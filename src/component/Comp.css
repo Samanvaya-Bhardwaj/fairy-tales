@@ -1,0 +1,23 @@
+div {
+    width: 100%;
+  }
+  @media only screen and (max-width: 768px) {
+    div {
+      width: 100%;
+    }
+     .recharts-wrapper {
+      font-size: 12px;
+    }
+     .recharts-cartesian-grid-line {
+      stroke-width: 1px;
+    }
+  }
+  .recharts-cartesian-axis-label {
+    padding-bottom: 10px;
+  }
+   .recharts-cartesian-axis-tick {
+    padding-bottom: 5px;
+  }
+   .recharts-legend {
+    margin-top: 20px;
+  }

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Comp.css'
 import {
   BarChart,
   Bar,

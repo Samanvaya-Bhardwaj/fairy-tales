@@ -48,7 +48,7 @@ function Main() {
 
 
   return (
-    <div>
+    <div className='main'>
       <h1>Top 20 Most Occurring Words:</h1>
 
       <button onClick={handleClick}>Submit</button>
